@@ -1,16 +1,7 @@
 {
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
+ 
   "object": {
     "qq1": "ann1",
     "aqq2": "ann2"
-  },
-  "string": "Hello World"
+  }
 }
